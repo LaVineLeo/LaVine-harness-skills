@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generic Harness Template"
+  short_description: "Provide generic structure and templates for an agent-first Harness repo"
+  default_prompt: "Use $generic-harness to scaffold or adapt an agent-first Harness for this repository."
