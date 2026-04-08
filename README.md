@@ -1,3 +1,7 @@
+[📘 English](README.md) | [🇨🇳 简体中文](README-zh-CN-v2.md)
+
+---
+
 # LaVine Harness Skills: An Autonomous Agent-First Architecture Framework (V3.x)
 
 ## Abstract & Epistemological Stance

@@ -1,3 +1,7 @@
+[📘 English](README.md) | [🇨🇳 简体中文](README-zh-CN-v2.md)
+
+---
+
 # LaVine Harness Skills: 智能体优先（Agent-First）的自主控制流体系架构 (V3.x 缰绳工程)
 
 ## 摘要 (Abstract & Epistemological Stance)
